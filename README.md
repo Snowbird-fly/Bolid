@@ -17,4 +17,4 @@ Dashboard for Bolid.Team
 
 Дашборд состоит из 3 страниц (основные показатели, динамика и средние показатели) и управляется с помощью фильтров и множественного выбора параметров.
 
-[Ссылка на дашборд Bolid.Team](https://datalens.yandex/dihqhekdzx242?_theme=dark)
+<a href="https://datalens.yandex/dihqhekdzx242?_theme=dark" target="_blank">Ссылка на дашборд Bolid.Team</a>
